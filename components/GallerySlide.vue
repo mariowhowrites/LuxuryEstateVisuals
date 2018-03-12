@@ -11,7 +11,7 @@ export default {
           return ('0' + this.iter).slice(-2);
       },
       link() {
-          return "/slider/" + this.number + ".jpg";
+          return "/LuxuryEstateVisuals/slider/" + this.number + ".jpg";
       },
   }
 }
